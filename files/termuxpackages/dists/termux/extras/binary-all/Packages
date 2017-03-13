@@ -36,6 +36,19 @@ Filename: dists/termux/extras/binary-all/bruter_0.1_all.deb
 Size: 1492
 SHA256: 5647b7fa09cb4bbb5eef3c017b88b44cf8580026f79ac0c49d49059b56ea2cbf
 
+Package: genalgo
+Version: 0.1
+Architecture: all
+Maintainer: @Auxilus
+Description: A simple genetic algorithm
+Homepage: https://example.com
+Depends: python
+Provides: python
+Conflicts: python-git
+Filename: dists/termux/extras/binary-all/genalgo_0.1_all.deb
+Size: 3340
+SHA256: 15cf30d0705eab85540b358bece8b5cd62c5b2000c90aad9f3931aef405f16a7
+
 Package: rrp
 Version: 0.1
 Architecture: all
