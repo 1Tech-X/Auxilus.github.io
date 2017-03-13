@@ -1,0 +1,50 @@
+Package: area
+Version: 0.2
+Architecture: all
+Maintainer: @Auxilus
+Description: This is a hello world package
+Homepage: https://example.com
+Depends: python
+Provides: vim
+Conflicts: vim-python-git
+Filename: dists/termux/extras/binary-all/area_0.2_all.deb
+Size: 1060
+SHA256: e6b750c27dca7de4448dd13eb17d939510ae4c67ca424d5d0dd8208c33f88bbe
+
+Package: boot
+Version: 0.1
+Architecture: all
+Maintainer: @Auxilus
+Description: This is a simple boot package
+Homepage: https://example.com
+Depends: python
+Provides: python
+Conflicts: python-git
+Filename: dists/termux/extras/binary-all/boot_0.1_all.deb
+Size: 840
+SHA256: 315020692bf6193ea2af67fe4197b2040a16caea83de9617607b45cdb7b42ef3
+
+Package: bruter
+Version: 0.1
+Architecture: all
+Maintainer: @MyGithubNick
+Description: This is a FTPBruteForce attacker script package
+Homepage: https://example.com
+Depends: perl
+Provides: perl
+Filename: dists/termux/extras/binary-all/bruter_0.1_all.deb
+Size: 1492
+SHA256: 5647b7fa09cb4bbb5eef3c017b88b44cf8580026f79ac0c49d49059b56ea2cbf
+
+Package: rrp
+Version: 0.1
+Architecture: all
+Maintainer: @MyGithubNick
+Description: This is a hello world package
+Homepage: https://example.com
+Depends: python
+Provides: vi
+Conflicts: vim-python-git
+Filename: dists/termux/extras/binary-all/rrp_0.1_all.deb
+Size: 748
+SHA256: 586c010e6817d0074e8ffcdcff3561fbc7bb35ee69b2241011c091b08154670a
