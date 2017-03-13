@@ -1,0 +1,11 @@
+Package: reprepro
+Architecture: aarch64
+Installed-Size: 800
+Maintainer: Vishal Biswas @vishalbiswas
+Version: 5.1.1-1
+Description: Tool to handle local repositories of debian packages
+Homepage: https://mirrorer.alioth.debian.org
+Depends: libdb, libbz2, liblzma, libarchive, pinentry, libgpg-error, gpgme
+Filename: dists/termux/extras/binary-aarch64/reprepro_5.1.1-1_aarch64.deb
+Size: 243040
+SHA256: 971ff70a0dd713d4e4bf8184056afe84b0ed0cd541489b34a316da67fdce8a2d
