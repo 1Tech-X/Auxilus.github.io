@@ -61,3 +61,16 @@ Conflicts: vim-python-git
 Filename: dists/termux/extras/binary-all/rrp_0.1_all.deb
 Size: 748
 SHA256: 586c010e6817d0074e8ffcdcff3561fbc7bb35ee69b2241011c091b08154670a
+
+Package: telbrute
+Version: 0.1
+Architecture: all
+Maintainer: @Auxilus
+Description: Simple script to bruteforse telnet host
+Homepage: https://Auxilus.github.io
+Depends: python2
+Provides: python
+Conflicts: python-git
+Filename: dists/termux/extras/binary-all/telbrute_0.1_all.deb
+Size: 2152
+SHA256: c5c6f499555bb2ce2632328adb5f726e779a7771e74ba8f4df0b894270cfae68
