@@ -32,9 +32,9 @@ Description: This is a FTPBruteForce attacker script package
 Homepage: https://example.com
 Depends: perl
 Provides: perl
-Filename: dists/termux/extras/binary-all/bruter_0.1_all.deb
-Size: 1492
-SHA256: 5647b7fa09cb4bbb5eef3c017b88b44cf8580026f79ac0c49d49059b56ea2cbf
+Filename: dists/termux/extras/binary-all/bruter_0.2_all.deb
+Size: 1496
+SHA256: 4f83930205f4ab540e1a6a403f019b2f28d7b6681f0ea4c0075cf709f7550601
 
 Package: genalgo
 Version: 0.1
