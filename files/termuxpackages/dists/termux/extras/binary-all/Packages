@@ -1,15 +1,15 @@
 Package: area
-Version: 0.2
+Version: 0.3
 Architecture: all
 Maintainer: @Auxilus
-Description: This is a hello world package
+Description: Simple script to calculate areas
 Homepage: https://example.com
-Depends: python
-Provides: vim
-Conflicts: vim-python-git
-Filename: dists/termux/extras/binary-all/area_0.2_all.deb
-Size: 1060
-SHA256: e6b750c27dca7de4448dd13eb17d939510ae4c67ca424d5d0dd8208c33f88bbe
+Depends: bash
+Provides: bash
+Conflicts: bash-git
+Filename: dists/termux/extras/binary-all/area_0.3_all.deb
+Size: 1052
+SHA256: b0c83cff811531bed16a23921f38a5968faf6911ff258a69d271a7484efa87c1
 
 Package: boot
 Version: 0.1
@@ -25,16 +25,16 @@ Size: 840
 SHA256: 315020692bf6193ea2af67fe4197b2040a16caea83de9617607b45cdb7b42ef3
 
 Package: bruter
-Version: 0.1
+Version: 0.2
 Architecture: all
-Maintainer: @MyGithubNick
+Maintainer: @Auxilus
 Description: This is a FTPBruteForce attacker script package
-Homepage: https://example.com
+Homepage: https://Auxilus.github.io
 Depends: perl
 Provides: perl
 Filename: dists/termux/extras/binary-all/bruter_0.2_all.deb
-Size: 1496
-SHA256: 4f83930205f4ab540e1a6a403f019b2f28d7b6681f0ea4c0075cf709f7550601
+Size: 1488
+SHA256: 9947b254acc54f646f78c98da6a16ff0517e41aa942f9e8be8e1ba08ab661c0b
 
 Package: genalgo
 Version: 0.1
