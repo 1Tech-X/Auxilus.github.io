@@ -3,7 +3,7 @@ Version: 1
 Architectures: all
 Description: Extras repository
 Suite: termux
-Date: Tue, 14 Mar 2017 18:32:04 UTC
+Date: Thu, 16 Mar 2017 11:53:49 UTC
 SHA256:
- 29dc42cf2f54823920cbe7d43f014d3bb15e77e8ddcb79543f9c8a0fd253a686 2049 extras/binary-all/Packages
- a056f38069c9b956bd9b22ecc1a9028c9e2423d7a6fa507366d5bad0c098c93a 796 extras/binary-all/Packages.xz
+ 510a880c2fd3bd5815192d00d6cbf49ed094da5e29bd021aa353f9a21fc72a5b 2427 extras/binary-all/Packages
+ eafca2ed8afd13e7ea59e11f5c9a88a4821f332c5d37357f4e78c82546355f65 872 extras/binary-all/Packages.xz

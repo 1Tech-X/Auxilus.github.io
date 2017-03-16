@@ -49,6 +49,19 @@ Filename: dists/termux/extras/binary-all/genalgo_0.1_all.deb
 Size: 3340
 SHA256: 15cf30d0705eab85540b358bece8b5cd62c5b2000c90aad9f3931aef405f16a7
 
+Package: genestring
+Version: 0.1
+Architecture: all
+Maintainer: @Auxilus
+Description: This is a simple implementation of genetic algorithm
+Homepage: https://Auxilus.github.io
+Depends: python
+Provides: python
+Conflicts: python-git
+Filename: dists/termux/extras/binary-all/genestring_0.1_all.deb
+Size: 4148
+SHA256: 9051986fbb4de0a45a6e0e9e2a3d8ab9c2664453839e096450f10501f3296d12
+
 Package: rrp
 Version: 0.1
 Architecture: all
