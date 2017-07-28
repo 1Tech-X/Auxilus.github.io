@@ -21,6 +21,7 @@ gem install nokogiri -- --use-system-libraries
 
 echo "\n"
 echo "installing Network_interface"
+cd $HOME
 gem unpack etwork_interface
 cd network_interface-0.0.1
 sed 's|git ls-files|find -type f|' -i network_interface.gemspec
@@ -49,7 +50,7 @@ rm -r grpc-1.4.1
 
 echo "\n"
 echo "Installig gems\n"
-
+cd $HOME/metasploit-framework
 bundle install -j5
 
 
