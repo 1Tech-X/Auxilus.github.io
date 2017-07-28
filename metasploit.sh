@@ -63,3 +63,4 @@ echo "Metasploit Successfully installed"
 echo
 echo "Type ./msfconsole to start metasploit"
 echo
+cd $HOME/metasploit-framework
