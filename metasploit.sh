@@ -22,7 +22,7 @@ gem install nokogiri -- --use-system-libraries
 echo "\n"
 echo "installing Network_interface"
 cd $HOME
-gem unpack etwork_interface
+gem unpack network_interface
 cd network_interface-0.0.1
 sed 's|git ls-files|find -type f|' -i network_interface.gemspec
 curl -L https://wiki.termux.com/images/6/6b/Netifaces.patch -o netifaces.patch
